@@ -1,8 +1,6 @@
 # LoopView
 ##collectionView, 实现高性能图片轮播
 
-![LoopView](/Users/koreyoshi/Desktop/Snip20170130_1.png
-)
 
 ###获取数据
 ```objc
