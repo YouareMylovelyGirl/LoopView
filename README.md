@@ -143,6 +143,6 @@ static NSString * const ID = @"Cell";
 ```
 
 ####轮播框架, 流畅易懂 学习就是将大家的知识, 变成自己的知识.
-[LoopView - 代码](https://github.com/YouareMylovelyGirl/LoopView)
-[博客园](http://www.cnblogs.com/Dog-Ping/)
+- [LoopView - 代码](https://github.com/YouareMylovelyGirl/LoopView)
+- [博客园](http://www.cnblogs.com/Dog-Ping/)
 
